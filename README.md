@@ -195,20 +195,17 @@ egrep 'Linux.*world' newfile
 ## OUTPUT
 <img width="747" height="52" alt="image" src="https://github.com/user-attachments/assets/6b142ca5-8b7f-45e7-badb-b2bba1f31e38" />
 
-
 egrep 'Linux.*World' newfile 
 ## OUTPUT
-
-
+<img width="716" height="50" alt="image" src="https://github.com/user-attachments/assets/7887c755-22e3-4824-9bca-816c36da9083" />
 
 egrep l{2} newfile
 ## OUTPUT
-
-
+<img width="602" height="67" alt="image" src="https://github.com/user-attachments/assets/c3b068a6-f8d1-4d16-ae4c-1ebcba5bb4b7" />
 
 egrep 's{1,2}' newfile
 ## OUTPUT 
-
+<img width="726" height="97" alt="image" src="https://github.com/user-attachments/assets/845da225-0f91-48bc-87e4-d6de6d54b795" />
 
 cat > file23
 ```
