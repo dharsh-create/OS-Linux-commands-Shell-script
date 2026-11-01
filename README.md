@@ -161,50 +161,44 @@ Linux is best in this World
  ```
 egrep -w 'Hello|hello' newfile 
 ## OUTPUT
-
-
+<img width="765" height="75" alt="image" src="https://github.com/user-attachments/assets/cb61bc80-8bb7-4b99-88b3-c370f4ebcb01" />
 
 egrep -w '(H|h)ello' newfile 
 ## OUTPUT
-
-
+<img width="817" height="62" alt="image" src="https://github.com/user-attachments/assets/af96a55a-6397-489c-bb05-b3476506ad8d" />
 
 egrep -w '(H|h)ell[a-z]' newfile 
 ## OUTPUT
-
-
-
+<img width="856" height="72" alt="image" src="https://github.com/user-attachments/assets/34ac9324-e56b-4592-a7be-b667e5a56f84" />
 
 egrep '(^hello)' newfile 
 ## OUTPUT
-
-
+<img width="705" height="52" alt="image" src="https://github.com/user-attachments/assets/2eae4dfc-abd0-4ebc-8c6a-d1b7f9a3db1b" />
 
 egrep '(world$)' newfile 
 ## OUTPUT
-
-
+<img width="697" height="65" alt="image" src="https://github.com/user-attachments/assets/2324df56-daac-41be-960f-7988d8fad09a" />
 
 egrep '(World$)' newfile 
 ## OUTPUT
-
+<img width="776" height="47" alt="image" src="https://github.com/user-attachments/assets/479a0217-4a04-47a4-a673-aaee717cbf12" />
 
 egrep '((W|w)orld$)' newfile 
 ## OUTPUT
-
-
+<img width="757" height="75" alt="image" src="https://github.com/user-attachments/assets/8e08fa34-5cc8-489f-acdb-0a3728a26d7a" />
 
 egrep '[1-9]' newfile 
 ## OUTPUT
-
-
+<img width="647" height="51" alt="image" src="https://github.com/user-attachments/assets/2653b14d-2a8e-40c0-9ae2-e71e2893e339" />
 
 egrep 'Linux.*world' newfile 
 ## OUTPUT
+<img width="747" height="52" alt="image" src="https://github.com/user-attachments/assets/6b142ca5-8b7f-45e7-badb-b2bba1f31e38" />
 
 
 egrep 'Linux.*World' newfile 
 ## OUTPUT
+
 
 
 egrep l{2} newfile
