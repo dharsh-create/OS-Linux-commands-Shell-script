@@ -296,7 +296,7 @@ cat > file21
 ``` 
 sort file21
 ## OUTPUT
-
+<img width="777" height="142" alt="image" src="https://github.com/user-attachments/assets/cc09625a-b9c9-46c9-93ac-0fdb0aa1bba6" />
 
 cat > file22
 ```
@@ -309,13 +309,13 @@ cat > file22
 ``` 
 uniq file22
 ## OUTPUT
-
-
+<img width="542" height="142" alt="image" src="https://github.com/user-attachments/assets/3082de58-8580-4880-9402-0d982aabd597" />
 
 #Using tr command
 
 cat file23 | tr [:lower:] [:upper:]
  ## OUTPUT
+<img width="820" height="206" alt="image" src="https://github.com/user-attachments/assets/f46ba118-6aeb-4577-b9c3-b38fa3919aae" />
 
 cat < urllist.txt
 ```
