@@ -332,17 +332,19 @@ www. mrcet.... com
  ```
 cat urllist.txt | tr -d ' '
  ## OUTPUT
-
+<img width="852" height="100" alt="image" src="https://github.com/user-attachments/assets/86de56e5-15c2-4e44-9ff0-cf2727ddfce4" />
 
  
 cat urllist.txt | tr -d ' ' | tr -s '.'
 ## OUTPUT
+<img width="952" height="122" alt="image" src="https://github.com/user-attachments/assets/1544add9-1e39-4ef3-92a2-21dff1532599" />
 
 
 
 #Backup commands
 tar -cvf backup.tar *
 ## OUTPUT
+<img width="947" height="532" alt="image" src="https://github.com/user-attachments/assets/14a99f6c-5394-4ce1-a131-5d818a4bc232" />
 
 
 mkdir backupdir
@@ -353,10 +355,11 @@ cd backupdir
  
 tar -tvf backup.tar
 ## OUTPUT
-
+<img width="951" height="600" alt="image" src="https://github.com/user-attachments/assets/707c8db3-678f-4a29-9b92-18c49314e9d5" />
 
 tar -xvf backup.tar
 ## OUTPUT
+<img width="957" height="502" alt="image" src="https://github.com/user-attachments/assets/553c4c0a-99ba-4913-80d3-92b50145b511" />
 
 gzip backup.tar
 
